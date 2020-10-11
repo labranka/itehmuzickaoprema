@@ -1,0 +1,4 @@
+sajt
+http://localhost/itehmuzickaoprema/index.php
+baza:
+http://localhost/phpmyadmin/db_structure.php?server=1&db=muzickaoprema
